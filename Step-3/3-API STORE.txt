@@ -1,0 +1,8 @@
+Hello à toi,
+
+YUP souhaite, via une API REST, avoir accès à une liste de magasins et pouvoir filtrer ou trier sur les données existantes.
+Nous souhaitons également pouvoir ajouter, supprimer ou modifier le(s) magasin(s) de notre choix. 
+
+Il te restera ensuite à fournir un DUMP SQL et le code source dans un fichier ZIP avec instructions si besoin.
+
+Bonne chance ! 
